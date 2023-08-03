@@ -1,14 +1,11 @@
 [
   {
-    "id": "",
-    "id1": "",
-    "id2": "2",
-    "id3": "3",
-    "init": 1,
-    "note": "default",
+    "id": "1b00fa60d",
+    "pe1": 360,
+    "pe2": 720,  
+    "init": 10,
+    "note": "defull",
     "pack": "",
-    "pe1": 90,
-    "pe2": 180,
-    "status": "true"
+    "status": true
   }
 ]
